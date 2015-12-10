@@ -1,0 +1,9 @@
+Building gecicoin
+
+See doc/readme-qt.rst for instructions on building gecicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of gecicoin.
+
+See doc/build-*.txt for instructions on building gecicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of gecicoin.
